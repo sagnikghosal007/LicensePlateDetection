@@ -39,6 +39,4 @@ The system also identifies the **state/region** of the vehicle based on the regi
 8. Map state code to region  
 9. Display and save results  
 
----
 
-## 📂 Project Structure
